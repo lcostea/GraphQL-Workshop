@@ -1,0 +1,15 @@
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\GraphQLWorkshopWeb.deps.json
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\GraphQLWorkshopWeb.runtimeconfig.json
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\GraphQLWorkshopWeb.runtimeconfig.dev.json
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\GraphQLWorkshopWeb.dll
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\GraphQLWorkshopWeb.pdb
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\LibraryDomain.dll
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\LibraryDomain.pdb
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWorkshopWeb.csprojResolveAssemblyReference.cache
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWorkshopWeb.csproj.CoreCompileInputs.cache
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWorkshopWeb.AssemblyInfoInputs.cache
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWorkshopWeb.AssemblyInfo.cs
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWorkshopWeb.dll
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWorkshopWeb.pdb
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\LibraryGraphQLSchema.dll
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\LibraryGraphQLSchema.pdb

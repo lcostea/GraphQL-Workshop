@@ -1,0 +1,11 @@
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\bin\Debug\netcoreapp2.0\LibraryGraphQLSchema.deps.json
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\bin\Debug\netcoreapp2.0\LibraryGraphQLSchema.dll
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\obj\Debug\netcoreapp2.0\LibraryGraphQLSchema.csprojResolveAssemblyReference.cache
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\obj\Debug\netcoreapp2.0\LibraryGraphQLSchema.csproj.CoreCompileInputs.cache
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\obj\Debug\netcoreapp2.0\LibraryGraphQLSchema.AssemblyInfoInputs.cache
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\obj\Debug\netcoreapp2.0\LibraryGraphQLSchema.AssemblyInfo.cs
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\bin\Debug\netcoreapp2.0\LibraryDomain.dll
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\bin\Debug\netcoreapp2.0\LibraryGraphQLSchema.pdb
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\bin\Debug\netcoreapp2.0\LibraryDomain.pdb
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\obj\Debug\netcoreapp2.0\LibraryGraphQLSchema.dll
+D:\Github\GraphQL-Workshop\LibraryGraphQLSchema\obj\Debug\netcoreapp2.0\LibraryGraphQLSchema.pdb
