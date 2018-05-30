@@ -1,0 +1,6 @@
+c:\users\user\source\repos\GraphQLWorkshop\LibraryDomain\bin\Debug\netcoreapp2.0\LibraryDomain.deps.json
+c:\users\user\source\repos\GraphQLWorkshop\LibraryDomain\bin\Debug\netcoreapp2.0\LibraryDomain.dll
+c:\users\user\source\repos\GraphQLWorkshop\LibraryDomain\obj\Debug\netcoreapp2.0\LibraryDomain.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\GraphQLWorkshop\LibraryDomain\obj\Debug\netcoreapp2.0\LibraryDomain.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\GraphQLWorkshop\LibraryDomain\obj\Debug\netcoreapp2.0\LibraryDomain.AssemblyInfoInputs.cache
+c:\users\user\source\repos\GraphQLWorkshop\LibraryDomain\obj\Debug\netcoreapp2.0\LibraryDomain.AssemblyInfo.cs
