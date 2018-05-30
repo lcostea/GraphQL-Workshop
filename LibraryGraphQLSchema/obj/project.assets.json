@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryGraphQLSchema\\LibraryGraphQLSchema.csproj",
+      "projectUniqueName": "D:\\Github\\GraphQL-Workshop\\LibraryGraphQLSchema\\LibraryGraphQLSchema.csproj",
       "projectName": "LibraryGraphQLSchema",
-      "projectPath": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryGraphQLSchema\\LibraryGraphQLSchema.csproj",
+      "projectPath": "D:\\Github\\GraphQL-Workshop\\LibraryGraphQLSchema\\LibraryGraphQLSchema.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryGraphQLSchema\\obj\\",
+      "outputPath": "D:\\Github\\GraphQL-Workshop\\LibraryGraphQLSchema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

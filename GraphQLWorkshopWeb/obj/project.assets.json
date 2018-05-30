@@ -13091,11 +13091,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\GraphQLWorkshopWeb\\GraphQLWorkshopWeb.csproj",
+      "projectUniqueName": "D:\\Github\\GraphQL-Workshop\\GraphQLWorkshopWeb\\GraphQLWorkshopWeb.csproj",
       "projectName": "GraphQLWorkshopWeb",
-      "projectPath": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\GraphQLWorkshopWeb\\GraphQLWorkshopWeb.csproj",
+      "projectPath": "D:\\Github\\GraphQL-Workshop\\GraphQLWorkshopWeb\\GraphQLWorkshopWeb.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\GraphQLWorkshopWeb\\obj\\",
+      "outputPath": "D:\\Github\\GraphQL-Workshop\\GraphQLWorkshopWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13116,8 +13116,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryDomain\\LibraryDomain.csproj": {
-              "projectPath": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryDomain\\LibraryDomain.csproj"
+            "D:\\Github\\GraphQL-Workshop\\LibraryDomain\\LibraryDomain.csproj": {
+              "projectPath": "D:\\Github\\GraphQL-Workshop\\LibraryDomain\\LibraryDomain.csproj"
             }
           }
         }

@@ -5237,11 +5237,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryDomain\\LibraryDomain.csproj",
+      "projectUniqueName": "D:\\Github\\GraphQL-Workshop\\LibraryDomain\\LibraryDomain.csproj",
       "projectName": "LibraryDomain",
-      "projectPath": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryDomain\\LibraryDomain.csproj",
+      "projectPath": "D:\\Github\\GraphQL-Workshop\\LibraryDomain\\LibraryDomain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\GraphQLWorkshop\\LibraryDomain\\obj\\",
+      "outputPath": "D:\\Github\\GraphQL-Workshop\\LibraryDomain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
