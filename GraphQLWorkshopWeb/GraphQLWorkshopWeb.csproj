@@ -19,4 +19,10 @@
     <ProjectReference Include="..\LibraryGraphQLSchema\LibraryGraphQLSchema.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="settings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

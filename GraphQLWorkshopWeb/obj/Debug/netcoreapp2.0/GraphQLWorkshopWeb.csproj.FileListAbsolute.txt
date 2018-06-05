@@ -13,3 +13,4 @@ D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWor
 D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\obj\Debug\netcoreapp2.0\GraphQLWorkshopWeb.pdb
 D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\LibraryGraphQLSchema.dll
 D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\LibraryGraphQLSchema.pdb
+D:\Github\GraphQL-Workshop\GraphQLWorkshopWeb\bin\Debug\netcoreapp2.0\settings.json

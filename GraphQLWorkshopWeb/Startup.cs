@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
+
 namespace GraphQLWorkshopWeb
 {
     public class Startup
@@ -20,10 +21,13 @@ namespace GraphQLWorkshopWeb
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton(Configuration);
+            services.AddSingleton<IConfiguration>(Configuration);
             services.AddSingleton<AuthorType>();
+            services.AddSingleton<AuthorInputType>();
+            services.AddSingleton<BookInputType>();
             services.AddSingleton<BookType>();
             services.AddSingleton<LibraryQuery>();
+            services.AddSingleton<LibraryMutation>();
             services.AddSingleton<LibrarySchema>();
             services.AddSingleton<IDependencyResolver>(c => new FuncDependencyResolver(type => c.GetRequiredService(type)));
             services.AddGraphQLHttp();
@@ -33,6 +37,10 @@ namespace GraphQLWorkshopWeb
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
 
             app.UseDefaultFiles();
             app.UseStaticFiles();

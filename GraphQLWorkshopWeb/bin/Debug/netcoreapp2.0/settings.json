@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "mongo": "mongodb://devexperience:DevExperience160!@devexperience-shard-00-00-nmzdw.mongodb.net:27017,devexperience-shard-00-01-nmzdw.mongodb.net:27017,devexperience-shard-00-02-nmzdw.mongodb.net:27017/admin?replicaSet=devexperience-shard-0&ssl=true"
+  }
+}
